@@ -1,0 +1,4 @@
+Pipelines Creation
+1. Data Preprocessing by using Standard Scaler
+2. Reduce Dimension using PCA
+3. Apply  Classifier
